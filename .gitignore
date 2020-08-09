@@ -1,0 +1,9 @@
+# Untracked files
+.expo/
+.expo-shared/
+.vscode/
+node_modules/
+AppMap.drawio
+TESTS.js
+TODO.txt
+

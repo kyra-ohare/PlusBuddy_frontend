@@ -1,0 +1,22 @@
+{
+	"expo": {
+		"name": "PlusBuddy",
+		"slug": "PlusBuddy",
+		"platforms": ["ios", "android", "web"],
+		"version": "1.0.0",
+		"orientation": "portrait",
+		"icon": "./src/assets/icon.png",
+		"splash": {
+			"image": "./src/assets/splash.png",
+			"resizeMode": "contain",
+			"backgroundColor": "#084278"
+		},
+		"updates": {
+			"fallbackToCacheTimeout": 0
+		},
+		"assetBundlePatterns": ["**/*"],
+		"ios": {
+			"supportsTablet": true
+		}
+	}
+}
